@@ -1,3 +1,8 @@
+// Shape -----------> Entity
+// Shapes ----------> Models
+// ShapeDecorator --> GenericService
+// Decorators ------> Services
+
 abstract class Shape {
   String draw();
 }
